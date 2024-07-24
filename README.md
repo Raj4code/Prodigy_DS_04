@@ -12,7 +12,7 @@ Collect social media data using APIs
 Preprocess and clean the data
 Perform sentiment analysis using machine learning models
 Visualize sentiment patterns over time and across different demographics
-Generate reports summarizing the findings
+Generate reports summarizing the findings.
 
 
 
